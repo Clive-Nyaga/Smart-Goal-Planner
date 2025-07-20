@@ -19,13 +19,14 @@ smart-goal-planner/
 │   └── index.html
 ├── src/
 │   ├── components/
-│   │   ├── DepositForm.js
-│   │   ├── GoalForm.js
-│   │   ├── GoalItem.js
-│   │   ├── GoalList.js
-│   │   └── Overview.js
-│   ├── App.js
-│   └── index.js
+│   │   ├── DepositForm.jsx
+│   │   ├── GoalForm.jsx
+│   │   ├── GoalItem.jsx
+│   │   ├── GoalList.jsx
+│   │   └── Overview.jsx
+│   ├── App.jsx
+│   ├── index.css
+│   └── index.jsx
 ├── db.json
 ├── package.json
 └── README.md

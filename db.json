@@ -89,6 +89,15 @@
       "category": "Home",
       "deadline": "2025-03-31",
       "createdAt": "2024-05-15"
+    },
+    {
+      "name": "Phase 2 Project",
+      "targetAmount": 1000,
+      "savedAmount": 50,
+      "category": "Education",
+      "deadline": "2025-07-27",
+      "createdAt": "2025-07-20",
+      "id": "NWQKQLm"
     }
   ]
 }
