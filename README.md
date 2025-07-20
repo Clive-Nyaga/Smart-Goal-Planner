@@ -1,4 +1,4 @@
-# Smart Goal Planner
+# Smart Goal Planner (formerly Code-Challenge)
 
 A React application for managing financial goals, tracking progress, and making deposits.
 
