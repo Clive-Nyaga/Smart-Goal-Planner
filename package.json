@@ -9,6 +9,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "build": "react-scripts build",
     "server": "json-server --watch db.json --port 3000",
     "dev": "concurrently \"npm run start\" \"npm run server\""
   },
@@ -31,6 +32,7 @@
   },
   "devDependencies": {
     "concurrently": "^8.2.0",
-    "json-server": "^0.17.3"
+    "json-server": "^0.17.3",
+    "vite": "^7.0.5"
   }
 }
